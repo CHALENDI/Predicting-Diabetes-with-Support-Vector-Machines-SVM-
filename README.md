@@ -11,7 +11,7 @@ The dataset used in this project contains information such as glucose levels, bl
 ## Steps Involved:
 1. **Data Exploration & Preprocessing**: Understanding the dataset, handling missing values, and scaling the features for optimal performance.
 2. **Model Training**: Implementing an SVM model with an appropriate kernel to learn patterns in the data.
-3. **Model Evaluation**: Assessing the model's performance using metrics such as accuracy, precision, recall, and the confusion matrix.
+3. **Model Evaluation**: Assessing the model's performance using metrics such as accuracy.
 4. **Prediction & Conclusion**: Making predictions and summarizing the results to conclude the effectiveness of the SVM model.
 
 This analysis will provide insights into how machine learning, particularly Support Vector Machines, can be applied to real-world healthcare problems like diabetes prediction.
@@ -20,5 +20,4 @@ This analysis will provide insights into how machine learning, particularly Supp
 **Libraries used**:
 - `pandas` for data manipulation and analysis.
 - `numpy` for numerical operations.
-- `matplotlib` and `seaborn` for data visualization.
 - `scikit-learn` for building and evaluating the SVM model.
